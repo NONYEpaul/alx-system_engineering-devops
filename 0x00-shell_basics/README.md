@@ -13,3 +13,4 @@ script that prints the type of the file named iamafile
 Create a symbolic link
 Copy HTML files
 files beginning with an uppercase letter
+script that deletes all files in the current working directory
