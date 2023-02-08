@@ -8,3 +8,4 @@ Move the file betty
 Delete the file betty
 Delete the directory
 script that changes the working directory
+script that lists all files
