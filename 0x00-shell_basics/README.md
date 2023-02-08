@@ -4,3 +4,4 @@ Display the contents list of your current directory
 current directory contents in a long format
 current directory contents
 script that creates a directory named
+Move the file betty
