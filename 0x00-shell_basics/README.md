@@ -17,3 +17,4 @@ script that deletes all files in the current working directory
 script that creates the directories
 command that lists all the files separated by commas
 magic file
+magic file
