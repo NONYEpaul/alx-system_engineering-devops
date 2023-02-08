@@ -6,3 +6,4 @@ current directory contents
 script that creates a directory named
 Move the file betty
 Delete the file betty
+Delete the directory
