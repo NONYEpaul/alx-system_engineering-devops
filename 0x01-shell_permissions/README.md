@@ -16,3 +16,4 @@ script that creates a directory called my_dir with permissions 751 in the workin
 script that changes the group owner to school for the file hello
 script that changes the owner to vincent and the group owner to staff
 script that changes the owner and the group owner of
+script that changes the owner of the file hello to betty
