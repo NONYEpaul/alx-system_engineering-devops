@@ -9,3 +9,4 @@ script that prints the result of the addition of 128
 script that lists environment variables
 script that prints the result of POWER divided by DIVIDE
 script that displays the result of BREATH to the power LOVE
+script that counts the number of directories in the PATH
