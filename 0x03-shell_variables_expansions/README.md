@@ -12,3 +12,4 @@ script that displays the result of BREATH to the power LOVE
 script that counts the number of directories in the PATH
 script that converts a number from base 2 to base 10
 script that prints all possible combinations of two letters
+script that prints a number with two decimal places
